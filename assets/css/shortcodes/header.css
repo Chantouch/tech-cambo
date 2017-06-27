@@ -33,7 +33,7 @@ Top Bar
     width: 20px;
     height: 20px;
     line-height: 20px;
-    color: #0379ae;
+    color: #fff;
     text-align: center;
 }
 .top-bar .social-top a i:hover {
@@ -54,22 +54,22 @@ Top Bar
 .menuzord .menuzord-menu>li.active>a>i,
 .menuzord .menuzord-menu>li:hover>a,
 .menuzord .menuzord-menu>li:hover>a>i{
-    color: #03a9f4 !important;
+    color: #159d80 !important;
 }
 
 .nav-border-bottom .menuzord .menuzord-menu>li.active>a,
 .nav-border-bottom .menuzord .menuzord-menu>li:hover>a {
-    border-bottom: 3px solid #03a9f4;
+    border-bottom: 3px solid #159d80;
 }
 
 .nav-border-box .menuzord-menu > li.active > a,
 .nav-border-box .menuzord-menu > li:hover > a{
-    border:1px solid #03a9f4;
+    border:1px solid #159d80;
 }
 
 .nav-boxed-color .menuzord-menu > li.active > a,
 .nav-boxed-color .menuzord-menu > li:hover > a{
-    background: #03a9f4 ;
+    background: #159d80 ;
 }
 
 
@@ -77,8 +77,6 @@ Top Bar
 .menuzord-menu.nav>li>a:hover {
     background-color: transparent;
 }
-
-
 
 /* ----------------------------------------------------------------
 Header
@@ -136,7 +134,7 @@ Header
 
 
 .tt-nav .logo-brand img {
-    height: 40px;
+    height: 84px;
     float: left;
 }
 
@@ -189,7 +187,7 @@ Header
 
 .tt-nav .brand-header,
 .tt-nav.sticky .brand-header {
-    background: #03a9f4 !important;
+    background: #159d80 !important;
 }
 
 
@@ -289,7 +287,7 @@ header.sticky .menuzord-menu>li>a,
     font-size: 24px;
     font-weight: 700;
     cursor: pointer;
-    margin: 33px 30px 0 0;
+    margin: 8px 8px 0 0;
     line-height: 100px;
 }
 .tt-nav.sticky .logo-brand {
@@ -397,7 +395,7 @@ header.sticky .menuzord-menu>li>a,
     bottom: 0;
     width: 0;
     height: 1px;
-    background-color: #03a9f4;
+    background-color: #159d80;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -o-transition: all 0.3s;
@@ -413,7 +411,7 @@ header.sticky .menuzord-menu>li>a,
 .menuzord-menu ul.dropdown li.active>a,
 .menuzord-menu>li>.megamenu .megamenu-row li:hover>a,
 .menuzord-menu>li>.megamenu .megamenu-row li.active>a {
-    color: #03a9f4;
+    color: #159d80;
     background-color: #fafafa;
 }
 .menuzord-menu>li>.megamenu .megamenu-row li a {
@@ -673,7 +671,7 @@ Nav link boxed
 .nav-boxed-color .menuzord .menuzord-menu>li:hover>a,
 .nav-boxed-color .menuzord .menuzord-menu>li:hover>a>i {
     color: #fff !important;
-    background: #03a9f4;
+    background: #159d80;
 }
 
 .brand-header .menuzord .menuzord-menu>li.active>a,
@@ -1089,12 +1087,12 @@ Responsive Menu
     .nav-border-bottom .menuzord .menuzord-menu>li:hover>a,
     .nav-border-bottom .brand-header .menuzord .menuzord-menu>li.active>a,
     .nav-border-bottom .brand-header .menuzord .menuzord-menu>li:hover>a {
-        border-bottom: 1px solid #03a9f4;
+        border-bottom: 1px solid #159d80;
     }
     .brand-header .menuzord .menuzord-menu>li:hover>a,
     .brand-header .menuzord .menuzord-menu>li.active>a,
     .brand-header .menuzord .menuzord-menu>li.active>a i {
-        color: #03a9f4 !important;
+        color: #159d80 !important;
     }
 
 }
