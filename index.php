@@ -62,18 +62,14 @@
 <section class="rev_slider_wrapper">
     <div class="rev_slider materialize-slider">
         <ul>
-
             <!-- slide 1 start -->
             <li data-transition="fade" data-slotamount="default" data-easein="Power4.easeInOut"
                 data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="assets/img/banner-1/bg.jpg"
                 data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7"
                 data-saveperformance="off" data-title="materialize Material" data-description="">
-
                 <!-- MAIN IMAGE -->
                 <img src="assets/img/banner-1/bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
-
-
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-resizeme"
                      data-basealign="slide"
@@ -359,8 +355,6 @@
         </ul>
     </div><!-- end revolution slider -->
 </section><!-- end of slider wrapper -->
-
-
 <section class="section-padding">
     <div class="container">
 
@@ -370,7 +364,6 @@
                 scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi
                 rhoncus.</p>
         </div>
-
         <div class="vertical-tab">
             <div class="row">
                 <div class="col-sm-3">
@@ -779,8 +772,6 @@
                 speed: 2000,
                 levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50],
             }
-
-
         });
     });
 </script>

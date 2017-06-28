@@ -9,9 +9,9 @@
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                
+
                     <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                  
+
                 </ul>
             </div>
 
@@ -21,7 +21,8 @@
                         <a><i class="material-icons mr-10">&#xE0B9;</i>service.techcambo@gmail.com</a>
                     </li>
                     <li>
-                        <a><i class="material-icons mr-10">&#xE0CD;</i><span class="font-size-18"> ០១០ ៥៩០ ២១៣ </span> / <span class="font-size-18"> ០៨៥ ៥០០ ១២៨ </span></a>
+                        <a><i class="material-icons mr-10">&#xE0CD;</i><span class="font-size-18"> ០១០ ៥៩០ ២១៣ </span> /
+                            <span class="font-size-18"> ០៨៥ ៥០០ ១២៨ </span></a>
                     </li>
                 </ul>
             </div>
@@ -78,21 +79,22 @@
                     </li>
                     <li><a href="javascript:void(0)"><span class="font-size-18">សេវាកម្ម</span></a>
                         <ul class="dropdown">
-                           <li><a href="#" > <span class="font-size-18">សេវាបង្កើត ប្រព័ន្ធគ្រប់គ្រង</span></a></li>
-                            <li><a href="#" ><span class="font-size-18">សេវាបង្កើត </span>Website</a></li>
-                            
-                            <li><a href="#" ><span class="font-size-18">សេវា</span> Design Logo <span class="font-size-18">ក្រុមហ៊ុន</span></a></li>
-                            <li><a href="#" ><span class="font-size-18">សេវាតបណ្តាញ </span> Network</a></li>
-                            <li><a href="#" ><span class="font-size-18">សេវាដំលើងកាមេរ៉ាសុវត្ដិភាព</span></a></li>
-                          
+                            <li><a href="#"> <span class="font-size-18">សេវាបង្កើត ប្រព័ន្ធគ្រប់គ្រង</span></a></li>
+                            <li><a href="#"><span class="font-size-18">សេវាបង្កើត </span>Website</a></li>
+
+                            <li><a href="#"><span class="font-size-18">សេវា</span> Design Logo <span
+                                            class="font-size-18">ក្រុមហ៊ុន</span></a></li>
+                            <li><a href="#"><span class="font-size-18">សេវាតបណ្តាញ </span> Network</a></li>
+                            <li><a href="#"><span class="font-size-18">សេវាដំលើងកាមេរ៉ាសុវត្ដិភាព</span></a></li>
+
                         </ul>
                     </li>
                     <li>
-                        <a href="javascript:void(0)"><span class="font-size-18">អំពីពួកយើង</span></a>
+                        <a href="about-us.php"><span class="font-size-18">អំពីពួកយើង</span></a>
                     </li>
 
                     <li>
-                        <a href="javascript:void(0)"><span class="font-size-18">ទំនាក់ទំនង</span></a>
+                        <a href="contact-us.php"><span class="font-size-18">ទំនាក់ទំនង</span></a>
                     </li>
                 </ul>
                 <!--mega menu end-->
