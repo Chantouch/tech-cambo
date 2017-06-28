@@ -2243,41 +2243,9 @@ KEY FRAME
 }
 
 
-
-
-/* ================= Preloader ==================== */
-
-#preloader {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: #fff;
-    z-index: 999999;
-    text-align:center;
+.cambo-menu li a{ 
+    float: left;
 }
-
-#preloader .preloader-position{
-    width:100%;
-    margin:0 auto;
-    left: 50%;
-    position: absolute;
-    top: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -moz-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-}
-
-#preloader .progress{
-    height: 2px;
-    margin: 35px 0;
-}
-#preloader .progress .indeterminate{
-    background:#03a9f4;
-}
-
 
 
 

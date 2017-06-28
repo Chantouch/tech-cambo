@@ -601,6 +601,16 @@
   background-color: #03a9f4 !important; }
 .light-159d80 {
   background-color: #159d80 !important; }
+  .light-159d80-text {
+    color: #159d80 !important;
+  }
+  .font-size-25{
+    font-size: 25px !important;
+  }
+
+  .font-size-18{
+     font-size: 18px !important;
+  }
    
 
 .light-blue-text {
@@ -7775,4 +7785,7 @@ ul.side-nav .collapsible-body li.active, ul.side-nav.fixed .collapsible-body li.
 @media (min-height: 40.125em) {
   .picker--time .picker__box {
     margin-bottom: 5em; }
+ }
+ .cambo-pad-l-20{
+   padding-left: 20px !important;
  }
