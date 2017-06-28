@@ -56,7 +56,7 @@
             <div id="materialize-menu" class="menuzord">
                 <!--logo start-->
                 <a href="index.php" class="logo-brand">
-                    <img class="retina" src="assets/img/logo.jpg" alt=""/>
+                    <img class="retina" src="assets/img/logo-colored.png" alt=""/>
                 </a>
                 <!--logo end-->
                 <!--mega menu start-->
