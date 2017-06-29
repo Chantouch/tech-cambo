@@ -639,4 +639,3 @@
 </section>
 
 
-<?php include 'page/footer.php'; ?>
