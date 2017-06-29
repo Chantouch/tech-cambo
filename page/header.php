@@ -62,39 +62,39 @@
                 <!--mega menu start-->
                 <ul class="menuzord-menu pull-right">
                     <li class="active">
-                        <a href="javascript:void(0)"><span class="font-size-18">ទំព័រដើម</span></a>
+                        <a href="index.php?page=home"><span class="font-size-18">ទំព័រដើម</span></a>
                     </li>
-                    <li><a href="javascript:void(0)"><span class="font-size-18">ផលិតផល</span></a>
+                    <li><a href="index.php?page=home"><span class="font-size-18">ផលិតផល</span></a>
                         <ul class="dropdown">
                             <li>
-                                <a href="#"><span class="font-size-18">ប្រព័ន្ធគ្រប់គ្រងម៉ាតនិងហាងលក់ចាបហួយ</span></a>
+                                <a href="index.php?page=home"><span class="font-size-18">ប្រព័ន្ធគ្រប់គ្រងម៉ាតនិងហាងលក់ចាបហួយ</span></a>
                             </li>
                             <li>
-                                <a href="#"><span class="font-size-18">ប្រព័ន្ធគ្រប់គ្រងភោជនីយដ្ឋាននិងកាហ្វេ</span></a>
+                                <a href="index.php?page=home"><span class="font-size-18">ប្រព័ន្ធគ្រប់គ្រងភោជនីយដ្ឋាននិងកាហ្វេ</span></a>
                             </li>
                             <li>
-                                <a href="#"><span class="font-size-18">ប្រព័ន្ធគ្រប់គ្រងសាលារៀន</span></a>
+                                <a href="index.php?page=home"><span class="font-size-18">ប្រព័ន្ធគ្រប់គ្រងសាលារៀន</span></a>
                             </li>
                         </ul>
                     </li>
-                    <li><a href="javascript:void(0)"><span class="font-size-18">សេវាកម្ម</span></a>
+                    <li><a href="index.php?page=home"><span class="font-size-18">សេវាកម្ម</span></a>
                         <ul class="dropdown">
-                            <li><a href="#"> <span class="font-size-18">សេវាបង្កើត ប្រព័ន្ធគ្រប់គ្រង</span></a></li>
-                            <li><a href="#"><span class="font-size-18">សេវាបង្កើត </span>Website</a></li>
+                            <li><a href="index.php?page=home"> <span class="font-size-18">សេវាបង្កើត ប្រព័ន្ធគ្រប់គ្រង</span></a></li>
+                            <li><a href="index.php?page=home"><span class="font-size-18">សេវាបង្កើត </span>Website</a></li>
 
-                            <li><a href="#"><span class="font-size-18">សេវា</span> Design Logo <span
+                            <li><a href="index.php?page=home"><span class="font-size-18">សេវា</span> Design Logo <span
                                             class="font-size-18">ក្រុមហ៊ុន</span></a></li>
-                            <li><a href="#"><span class="font-size-18">សេវាតបណ្តាញ </span> Network</a></li>
-                            <li><a href="#"><span class="font-size-18">សេវាដំលើងកាមេរ៉ាសុវត្ដិភាព</span></a></li>
+                            <li><a href="index.php?page=home"><span class="font-size-18">សេវាតបណ្តាញ </span> Network</a></li>
+                            <li><a href="index.php?page=home"><span class="font-size-18">សេវាដំលើងកាមេរ៉ាសុវត្ដិភាព</span></a></li>
 
                         </ul>
                     </li>
                     <li>
-                        <a href="about-us.php"><span class="font-size-18">អំពីពួកយើង</span></a>
+                        <a href="index.php?page=about"><span class="font-size-18">អំពីពួកយើង</span></a>
                     </li>
 
                     <li>
-                        <a href="contact-us.php"><span class="font-size-18">ទំនាក់ទំនង</span></a>
+                        <a href="index.php?page=contact"><span class="font-size-18">ទំនាក់ទំនង</span></a>
                     </li>
                 </ul>
                 <!--mega menu end-->

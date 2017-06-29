@@ -61,8 +61,8 @@
                 <li><a href="#"><span class="font-size-18">ទំព័រដើម</span></a></li>
                 <li><a href="#"><span class="font-size-18">ផលិតផល</span></a></li>
                 <li><a href="#"><span class="font-size-18">សេវាកម្ម</span></a></li>
-                <li><a href="about-us.php"><span class="font-size-18">អំពីពួកយើង</span></a></li>
-                <li><a href="contact-us.php"><span class="font-size-18">ទំនាក់ទំនង</span></a></li>
+                <li><a href="about.php"><span class="font-size-18">អំពីពួកយើង</span></a></li>
+                <li><a href="contact.php"><span class="font-size-18">ទំនាក់ទំនង</span></a></li>
             </ul>
         </div><!-- /.container -->
     </div><!-- /.secondary-footer -->

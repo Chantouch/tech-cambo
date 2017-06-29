@@ -11,33 +11,33 @@
         <title>Contact Us</title>
 
         <!--  favicon -->
-        <link rel="shortcut icon" href="assets/img/ico/favicon.png">
+        <link rel="shortcut icon" href="../assets/img/ico/favicon.png">
         <!--  apple-touch-icon -->
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/ico/apple-touch-icon-144-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/ico/apple-touch-icon-114-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/ico/apple-touch-icon-72-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" href="assets/img/ico/apple-touch-icon-57-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/img/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/img/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/img/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="../assets/img/ico/apple-touch-icon-57-precomposed.png">
 
 
         
         <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,900' rel='stylesheet' type='text/css'>
         <!-- FontAwesome CSS -->
-        <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link href="../assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- Material Icons CSS -->
-        <link href="assets/fonts/iconfont/material-icons.css" rel="stylesheet">
+        <link href="../assets/fonts/iconfont/material-icons.css" rel="stylesheet">
         <!-- owl.carousel -->
-        <link href="assets/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
-        <link href="assets/owl.carousel/assets/owl.theme.default.min.css" rel="stylesheet">
+        <link href="../assets/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
+        <link href="../assets/owl.carousel/assets/owl.theme.default.min.css" rel="stylesheet">
         <!-- flexslider -->
-        <link href="assets/flexSlider/flexslider.css" rel="stylesheet">
+        <link href="../assets/flexSlider/flexslider.css" rel="stylesheet">
         <!-- materialize -->
-        <link href="assets/materialize/css/materialize.min.css" rel="stylesheet">
+        <link href="../assets/materialize/css/materialize.min.css" rel="stylesheet">
         <!-- Bootstrap -->
-        <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- shortcodes -->
-        <link href="assets/css/shortcodes/shortcodes.css" rel="stylesheet">
+        <link href="../assets/css/shortcodes/shortcodes.css" rel="stylesheet">
         <!-- Style CSS -->
-        <link href="style.css" rel="stylesheet">
+        <link href="../style.css" rel="stylesheet">
 
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -79,7 +79,7 @@
               </div>
             <div class="row">
                 <div class="col-md-8">
-                    <form name="contact-form" id="contactForm" action="sendemail.php" method="POST">
+                    <form name="contact-form" id="contactForm" action="../sendemail.php" method="POST">
                       <div class="row">
                         <div class="col-md-6">
                           <div class="input-field">
@@ -164,21 +164,21 @@
         <?php include 'page/footer.php'; ?>
 
         <!-- jQuery -->
-        <script src="assets/js/jquery-2.1.3.min.js"></script>
-        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-        <script src="assets/materialize/js/materialize.min.js"></script>
-        <script src="assets/js/menuzord.js"></script>
-        <script src="assets/js/bootstrap-tabcollapse.min.js"></script>
-        <script src="assets/js/jquery.easing.min.js"></script>
-        <script src="assets/js/jquery.sticky.min.js"></script>
-        <script src="assets/js/smoothscroll.min.js"></script>
-        <script src="assets/js/jquery.stellar.min.js"></script>
-        <script src="assets/js/jquery.inview.min.js"></script>
-        <script src="assets/owl.carousel/owl.carousel.min.js"></script>
-        <script src="assets/flexSlider/jquery.flexslider-min.js"></script>
-        <script src="assets/magnific-popup/jquery.magnific-popup.min.js"></script>
+        <script src="../assets/js/jquery-2.1.3.min.js"></script>
+        <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+        <script src="../assets/materialize/js/materialize.min.js"></script>
+        <script src="../assets/js/menuzord.js"></script>
+        <script src="../assets/js/bootstrap-tabcollapse.min.js"></script>
+        <script src="../assets/js/jquery.easing.min.js"></script>
+        <script src="../assets/js/jquery.sticky.min.js"></script>
+        <script src="../assets/js/smoothscroll.min.js"></script>
+        <script src="../assets/js/jquery.stellar.min.js"></script>
+        <script src="../assets/js/jquery.inview.min.js"></script>
+        <script src="../assets/owl.carousel/owl.carousel.min.js"></script>
+        <script src="../assets/flexSlider/jquery.flexslider-min.js"></script>
+        <script src="../assets/magnific-popup/jquery.magnific-popup.min.js"></script>
         <script src="https://maps.googleapis.com/maps/api/js"></script>
-        <script src="assets/js/scripts.js"></script>
+        <script src="../assets/js/scripts.js"></script>
 
         <!-- Google Map Customization  -->
         <script type="text/javascript">
