@@ -59,19 +59,16 @@
 <body id="top" class="has-header-search">
 <?php include 'page/header.php'; ?>
 <!-- start revolution slider 5.0 -->
-
 <?php
-        if(isset($_GET["page"])){
-            $page = $_GET["page"];
-            include ("page/".$page.".php");
-        }else{
-            include ("page/home.php");
-        }
+if (isset($_GET["page"])) {
+    $page = $_GET["page"];
+    include("page/" . $page . ".php");
+} else {
+    include("page/home.php");
+}
 ?>
 
-
 <?php include 'page/footer.php'; ?>
-
 
 <script src="assets/js/jquery-2.1.3.min.js"></script>
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>

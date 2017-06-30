@@ -5,7 +5,7 @@
                     <div class="col-md-12">
                         <h2>About Us</h2>
                         <ol class="breadcrumb">
-                            <li><a href="../index.php">Home</a></li>
+                            <li><a href="?page=home">Home</a></li>
                             <li class="active">About Us</li>
                         </ol>
                     </div>
@@ -167,25 +167,25 @@
                   <ul class="nav nav-tabs nav-justified" role="tablist">
                       <li class="active">
                           <a href="#team-1" data-toggle="tab">
-                            <img src="../assets/img/team/team-1.jpg" class="img-responsive" alt="Image">
+                            <img src="assets/img/team/team-1.jpg" class="img-responsive" alt="Image">
                           </a>
                       </li>
 
                       <li>
                           <a href="#team-2" data-toggle="tab">
-                              <img src="../assets/img/team/team-2.jpg" class="img-responsive" alt="Image">
+                              <img src="assets/img/team/team-2.jpg" class="img-responsive" alt="Image">
                           </a>
                       </li>
 
                       <li>
                           <a href="#team-3" data-toggle="tab">
-                              <img src="../assets/img/team/team-3.jpg" class="img-responsive" alt="Image">
+                              <img src="assets/img/team/team-3.jpg" class="img-responsive" alt="Image">
                           </a>
                       </li>
 
                       <li>
                           <a href="#team-4" data-toggle="tab">
-                              <img src="../assets/img/team/team-4.jpg" class="img-responsive" alt="Image">
+                              <img src="assets/img/team/team-4.jpg" class="img-responsive" alt="Image">
                           </a>
                       </li>
                   </ul>
@@ -197,7 +197,7 @@
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="../assets/img/team/team-large-1.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team-large-1.png" class="img-responsive" alt="Image">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -292,7 +292,7 @@
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="../assets/img/team/team-large-2.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team-large-2.png" class="img-responsive" alt="Image">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -387,7 +387,7 @@
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="../assets/img/team/team-large-3.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team-large-3.png" class="img-responsive" alt="Image">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -482,7 +482,7 @@
                           <div class="row">
                               <div class="col-md-4 col-sm-3">
                                   <figure class="team-img text-center">
-                                      <img src="../assets/img/team/team-large-4.png" class="img-responsive" alt="Image">
+                                      <img src="assets/img/team/team-large-4.png" class="img-responsive" alt="Image">
 
                                       <ul class="team-social-links list-inline">
                                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -591,7 +591,7 @@
                     <ul class="slides">
                       <li data-thumb="assets/img/client-thumb/1.png">
                         <div class="icon">
-                            <img src="../assets/img/quote-dark.png" alt="Customer Thumb">
+                            <img src="assets/img/quote-dark.png" alt="Customer Thumb">
                         </div>
                         <div class="content">
                             <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class conubia consequat curae.</p>
@@ -604,7 +604,7 @@
                       </li>
                       <li data-thumb="assets/img/client-thumb/2.png">
                         <div class="icon">
-                            <img src="../assets/img/quote-dark.png" alt="Customer Thumb">
+                            <img src="assets/img/quote-dark.png" alt="Customer Thumb">
                         </div>
                         <div class="content">
                             <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class conubia consequat curae.</p>
@@ -617,7 +617,7 @@
                       </li>
                       <li data-thumb="assets/img/client-thumb/3.png">
                         <div class="icon">
-                            <img src="../assets/img/quote-dark.png" alt="Customer Thumb">
+                            <img src="assets/img/quote-dark.png" alt="Customer Thumb">
                         </div>
                         <div class="content">
                             <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class conubia consequat curae.</p>
@@ -630,7 +630,7 @@
                       </li>
                       <li data-thumb="assets/img/client-thumb/4.png">
                         <div class="icon">
-                            <img src="../assets/img/quote-dark.png" alt="Customer Thumb">
+                            <img src="assets/img/quote-dark.png" alt="Customer Thumb">
                         </div>
                         <div class="content">
                             <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class conubia consequat curae.</p>

@@ -7,7 +7,7 @@
                 data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7"
                 data-saveperformance="off" data-title="materialize Material" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="../assets/img/banner-1/bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                <img src="assets/img/banner-1/bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-resizeme"
@@ -19,7 +19,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-1/book.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-1/book.png">
                     </div>
                 </div>
 
@@ -32,7 +32,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt=""
+                    <div><img src="assets/img/banner-1/dummy.png" alt=""
                               data-lazyload="assets/img/banner-1/glasses.png">
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt=""
+                    <div><img src="assets/img/banner-1/dummy.png" alt=""
                               data-lazyload="assets/img/banner-1/earphones.png">
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-1/cup.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-1/cup.png">
                     </div>
                 </div>
 
@@ -138,7 +138,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt=""
+                    <div><img src="assets/img/banner-1/dummy.png" alt=""
                               data-lazyload="assets/img/banner-1/macbook.png">
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                 data-saveperformance="off" data-title="Unique Design" data-description="">
 
                 <!-- MAIN IMAGE -->
-                <img src="../assets/img/banner-2/bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
+                <img src="assets/img/banner-2/bg.jpg" alt="" data-bgposition="center center" data-bgfit="cover"
                      data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 
@@ -166,7 +166,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/book.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/book.png">
                     </div>
                 </div>
 
@@ -180,7 +180,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/flower.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/flower.png">
                     </div>
                 </div>
 
@@ -194,7 +194,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/box.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/box.png">
                     </div>
                 </div>
 
@@ -208,7 +208,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/tube.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/tube.png">
                     </div>
                 </div>
 
@@ -285,7 +285,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/ipad.png">
+                    <div><img src="assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/ipad.png">
                     </div>
                 </div>
             </li>
@@ -328,7 +328,7 @@
                             <div role="tabpanel" class="tab-pane fade in active" id="tab-5">
                                 <h2>About Us</h2>
 
-                                <img class="alignright" src="../assets/img/working_man.png" alt="">
+                                <img class="alignright" src="assets/img/working_man.png" alt="">
 
                                 <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan
                                     cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit
@@ -342,7 +342,7 @@
                             <div role="tabpanel" class="tab-pane fade" id="tab-6">
                                 <h2>What We Do</h2>
 
-                                <img class="alignright" src="../assets/img/busy_man.png" alt="">
+                                <img class="alignright" src="assets/img/busy_man.png" alt="">
 
                                 <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan
                                     cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit
@@ -356,7 +356,7 @@
                             <div role="tabpanel" class="tab-pane fade" id="tab-7">
                                 <h2>Our Mission</h2>
 
-                                <img class="alignright" src="../assets/img/mission.png" alt="">
+                                <img class="alignright" src="assets/img/mission.png" alt="">
 
                                 <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan
                                     cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit
@@ -370,7 +370,7 @@
                             <div role="tabpanel" class="tab-pane fade" id="tab-8">
                                 <h2>Our Team</h2>
 
-                                <img class="alignright" src="../assets/img/business.png" alt="">
+                                <img class="alignright" src="assets/img/business.png" alt="">
 
                                 <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan
                                     cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit
@@ -384,7 +384,7 @@
                             <div role="tabpanel" class="tab-pane fade" id="tab-9">
                                 <h2>Our Skills</h2>
 
-                                <img class="alignright mt-20" src="../assets/img/data.png" alt="">
+                                <img class="alignright mt-20" src="assets/img/data.png" alt="">
 
                                 <p>Duis senectus mus condimentum nunc ac habitasse duis consectetur a arcu a accumsan
                                     cras et metus ultricies justo cum a bibendum. <a href="#">Egestas vestibulum blandit
@@ -604,7 +604,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="border-box">
                         <a href="#">
-                            <img src="../assets/img/client-logo/1.png" alt="clients">
+                            <img src="assets/img/client-logo/1.png" alt="clients">
                         </a>
                     </div><!-- /.border-box -->
                 </div><!-- /.col-md-3 -->
@@ -612,7 +612,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="border-box">
                         <a href="#">
-                            <img src="../assets/img/client-logo/2.png" alt="clients">
+                            <img src="assets/img/client-logo/2.png" alt="clients">
                         </a>
                     </div><!-- /.border-box -->
                 </div><!-- /.col-md-3 -->
@@ -620,7 +620,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="border-box">
                         <a href="#">
-                            <img src="../assets/img/client-logo/4.png" alt="clients">
+                            <img src="assets/img/client-logo/4.png" alt="clients">
                         </a>
                     </div><!-- /.border-box -->
                 </div><!-- /.col-md-3 -->
@@ -628,7 +628,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="border-box">
                         <a href="#">
-                            <img src="../assets/img/client-logo/5.png" alt="clients">
+                            <img src="assets/img/client-logo/5.png" alt="clients">
                         </a>
                     </div><!-- /.border-box -->
                 </div><!-- /.col-md-3 -->
