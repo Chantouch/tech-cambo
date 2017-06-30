@@ -18,9 +18,11 @@
     <div class="container">
         <div class="text-center mb-80">
             <h2 class="section-title text-uppercase">Drop us a line</h2>
-            <p class="section-sub">Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus,
-                scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi
-                rhoncus.</p>
+            <p class="section-sub">
+                Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones
+                you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your
+                sails. Explore. Dream. Discover.Mark Twain
+            </p>
         </div>
         <div class="row">
             <div class="col-md-8">
@@ -86,17 +88,16 @@
 
                     <i class="material-icons brand-color">&#xE61C;</i>
                     <div class="phone">
-                        <p>Fax: (123) 456-7890<br>
-                            Phone: (123) 456-7890</p>
+                        <p>Fax: (+855) 010-590-213<br>
+                            Phone: (+855) 085-500-128</p>
                     </div>
 
                     <i class="material-icons brand-color">&#xE0E1;</i>
                     <div class="mail">
-                        <p><a href="mailto:#">first.last@example.com</a><br>
-                            <a href="#">www.yourdomain.com</a></p>
+                        <p><a href="mailto:service.techcambo@gmail.com">service.techcambo@gmail.com</a><br>
+                            <a href="http://www.techcambo.com">www.techcambo.com</a></p>
                     </div>
                 </address>
-
             </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
     </div>
