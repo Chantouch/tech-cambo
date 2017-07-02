@@ -7,20 +7,16 @@
     <meta name="description" content="materialize is a material design based mutipurpose responsive template">
     <meta name="keywords"
           content="material design, card style, material template, portfolio, corporate, business, creative, agency">
-    <meta name="author" content="trendytheme.net">
+    <meta name="author" content=".net">
 
     <title>Homepage 2</title>
 
     <!--  favicon -->
     <link rel="shortcut icon" href="assets/img/ico/favicon.png">
     <!--  apple-touch-icon -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/img/ico/apple-touch-icon-57-precomposed.png">
 
 
-    <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,900' rel='stylesheet' type='text/css'>
+
     <!-- Material Icons CSS -->
     <link href="assets/fonts/iconfont/material-icons.css" rel="stylesheet">
     <!-- FontAwesome CSS -->
@@ -49,12 +45,6 @@
     <link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
 
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 </head>
 <body id="top" class="has-header-search">
 <?php include 'page/header.php'; ?>
@@ -147,15 +137,15 @@ if (isset($_GET["page"])) {
 
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems! The following part can be removed on Server for On Demand Loading) -->
 
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script type="text/javascript"
-        src="assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.video.min.js"></script>-->
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>-->
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>-->
+<!--<script type="text/javascript"-->
+<!--        src="assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>-->
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>-->
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>-->
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>-->
+<!--<script type="text/javascript" src="assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>-->
 
 </body>
 

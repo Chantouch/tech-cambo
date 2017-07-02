@@ -167,7 +167,7 @@ Common featured boxes
 
 
 .brand-hover:hover {
-    background-color: #03a9f4 !important;
+    background-color: #159d80 !important;
 }
 .pink-hover:hover {
     background-color: #ed145b !important;
@@ -180,6 +180,10 @@ Common featured boxes
 }
 .green-hover:hover {
     background-color: #8bc34a  !important;
+}
+
+.old-green-hover:hover {
+    background-color: #1fe0b6 !important;
 }
 
 
@@ -309,6 +313,8 @@ Hover outline
 .featured-item.hover-outline .desc {
     overflow: hidden;
 }
+
+
 .featured-item.hover-outline:hover h2,
 .featured-item.hover-outline:hover .icon,
 .featured-item.hover-outline:hover .icon .colored,
@@ -366,7 +372,6 @@ Feature Background
 -----------------------------------------------------------------*/
 
 .feature-background {
-    background-image: url(../../img/page-header/header-2.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -410,8 +415,7 @@ Border Box Style
 -----------------------------------------------------------------*/
 
 .featured-item.border-box {
-    padding: 50px 20px;
-    text-align: center;
+    padding: 25px;
     border: 1px solid #eee;
     background-color: #fff;
 }
