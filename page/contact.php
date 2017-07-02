@@ -17,11 +17,9 @@
 <section class="section-padding">
     <div class="container">
         <div class="text-center mb-80">
-            <h2 class="section-title text-uppercase">Drop us a line</h2>
+            <h2 class="section-title text-uppercase">ទំទាក់ទំនង មកពួកយើង</h2>
             <p class="section-sub">
-                Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones
-                you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your
-                sails. Explore. Dream. Discover.Mark Twain
+                ម្ភៃឆ្នាំក្រោយពីពេលនេះអ្នកនឹងខកចិត្តនឹងអ្វីដែលអ្នកមិនធ្វើជាងអ្នកដែលអ្នកបានធ្វើ។ ដូច្នេះបោះចោលវិវឌ្ឍន៍។ ជិះទូកចេញពីកំពង់ផែដែលមានសុវត្ថិភាព។ ចាប់ពង្រួញខ្យល់នៅក្នុងទូករបស់អ្នក។ រុករក។ សុបិន្ត។ ស្វែងយល់។
             </p>
         </div>
         <div class="row">
@@ -44,6 +42,11 @@
                             </div>
                         </div><!-- /.col-md-6 -->
                     </div><!-- /.row -->
+
+                    <div class="input-field">
+                        <input id="subject" type="text" name="subject" class="validate">
+                        <label for="subject">Subject</label>
+                    </div>
 
                     <div class="row">
                         <div class="col-md-6">
@@ -105,5 +108,5 @@
 <!-- contact-form-section End -->
 
 <!-- map-section -->
-<div id="myMap" class="height-350"></div>
+<!--<div id="myMap" class="height-350"></div>-->
 <!-- /.map-section -->

@@ -15,11 +15,11 @@
 <section class="section-padding">
     <div class="container">
         <div class="text-center mb-80">
-            <h2 class="section-title text-uppercase">Who We are</h2>
+            <h2 class="section-title text-uppercase">តើពួកយើងគឺជាអ្នកណា?</h2>
             <p class="section-sub">
-                TechCambo is an innovative software development group specialising in the development of pos restaurant
-                , retail shop , mini mart Points of Sales system, Website Design & development and IOS/Android Mobile
-                App. With software architecture and design ideas.
+                TechCambo គឺជាក្រុមអភិវឌ្ឍន៏សូហ្វវែរប្រកបដោយភាពច្នៃប្រឌិតដែលមានឯកទេសក្នុងការអភិវឌ្ឍន៍ភោជនីយដ្ឋាន Pos
+                ហាងលក់ទំនិញម៉ាកម៉ិកស៊ុលនៃប្រព័ន្ធលក់រចនាគេហទំព័រនិងការអភិវឌ្ឍន៍និង IOS / Android Mobile App
+                ជាមួយស្ថាបត្យកម្មកម្មវិធីនិងគំនិតរចនា។
             </p>
         </div>
 
@@ -30,7 +30,7 @@
                         <i class="material-icons colored brand-icon">&#xE323;</i>
                     </div>
                     <div class="desc">
-                        <h2>We Build Software</h2>
+                        <h2>ពូកយើងបង្កើតផ្នែកទន់</h2>
                         <p>
                             + ប្រព័ន្ធគ្រប់គ្រងភោជនីយដ្ឋាន (POS Restaurant)<br>
                             + ប្រព័ន្ធកម្មវិធីលក់ទំនិញ (Retail Shop Points of Sales)<br>
@@ -47,7 +47,7 @@
                         <i class="material-icons colored brand-icon">&#xE412;</i>
                     </div>
                     <div class="desc">
-                        <h2>We build Web Biz</h2>
+                        <h2>ពូកយើងបង្កើតគេហទំព័រ</h2>
                         <p>
                             + សេវាកម្មក្នុងការបង្កើតវេបសាយសំរាប់ អាជីវកម្ម និង ក្រុមហ៊ុន។<br>
                             + ការរចនា មានការច្នៃប្រឌិត ស្អាត និង ទាក់ទាញ <br>
@@ -63,7 +63,7 @@
                         <i class="material-icons colored brand-icon">&#xE02C;</i>
                     </div>
                     <div class="desc">
-                        <h2>We Build Mobile App</h2>
+                        <h2>ពូកយើងបង្កើតម្មវិធីទូរសព័្ទ</h2>
                         <p>
                             + ការបង្កើតកម្មវិធី នៅក្នុងទូរសព្ទដៃ IOS និង Android.
                             Tech Cambo យើងខ្ញុំប្រកាន់ភ្ជាប់បីចំនុចសំខាន៉ៗ គឺ អតិជិជន , សេវាកម្ម និង ផលិតផល។
@@ -81,10 +81,9 @@
     <div class="container">
 
         <div class="text-center mb-80">
-            <h2 class="section-title text-uppercase">Work together</h2>
+            <h2 class="section-title text-uppercase">ធ្វើការជាមួយគ្នា</h2>
             <p class="section-sub">
-                To develop outstanding and efficient solutions for our customers so that they can enjoy a highly
-                optimised, creative and technologically advanced end products.
+                ដើម្បីអភិវឌ្ឍ ដំណោះស្រាយដែលពូកែ និង មានប្រសិទ្ធភាពសម្រាប់ អតិថិជនរបស់យើង ដូច្នេះពួកគេអាចរីករាយជាមួយ ផលិតផលដែលមានគុណភាពខ្ពស់ ប្រកបដោយការច្នៃប្រឌិតខ្ពស់ និង ប្រកបដោយបច្ចេកវិទ្យាខ្ពស់។
             </p>
         </div>
 
@@ -94,10 +93,9 @@
                     <i class="material-icons brand-icon">&#xE32A;</i>
                 </div>
                 <div class="desc">
-                    <h2>We are creative</h2>
+                    <h2>ពួកយើង បង្កើតថ្មី</h2>
                     <p>
-                        Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram
-                        them down people's throats.
+                        ពួកយើង បង្កើតអ្វីដែលថ្មីសម្រាប់មនុស្ស ទូទៅ ជាពិសេសសម្រាប់អ្នកដែលមិនចូលចិត្តចំណាយ ពេលវេលាច្រើនក្នុងការរៀបចំឯសារ និងទុកដាក់វា។
                     </p>
                 </div>
             </div><!-- /.featured-item -->
@@ -190,11 +188,9 @@
 <section class="section-padding">
     <div class="container">
         <div class="text-center mb-80">
-            <h2 class="section-title text-uppercase">Awesome Team</h2>
+            <h2 class="section-title text-uppercase">ក្រុមដ៏អស្ចារ្យ</h2>
             <p class="section-sub">
-                The key question isn't 'What fosters creativity?' But it is why in God's name isn't everyone creative?
-                Where was the human potential lost? How was it crippled? I think therefore a good question might be not
-                why do people create, but why do people not create." - Abraham Maslow
+                ពួកយើងបានបង្កើតក្រុម មួយដ៏រឹងមុាំនិងមានភាពបុីប្រសពខ្ពល់ក្នុងការ បំពេញភារកិច្ច។
             </p>
         </div>
 
@@ -456,7 +452,8 @@
                         <div class="row">
                             <div class="col-md-4 col-sm-3">
                                 <figure class="team-img text-center">
-                                    <img src="assets/img/team/choeung_chantra_large.png" class="img-responsive" alt="Image">
+                                    <img src="assets/img/team/choeung_chantra_large.png" class="img-responsive"
+                                         alt="Image">
 
                                     <ul class="team-social-links list-inline">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
