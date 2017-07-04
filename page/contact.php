@@ -29,48 +29,48 @@
                         <div class="col-md-6">
                             <div class="input-field">
                                 <input type="text" name="name" class="validate" id="name">
-                                <label for="name">Name</label>
+                                <label for="name">ឈ្មោះ</label>
                             </div>
 
                         </div><!-- /.col-md-6 -->
 
                         <div class="col-md-6">
                             <div class="input-field">
-                                <label class="sr-only" for="email">Email</label>
+                                <label class="sr-only" for="email">អ៊ីមែល</label>
                                 <input id="email" type="email" name="email" class="validate">
-                                <label for="email" data-error="wrong" data-success="right">Email</label>
+                                <label for="email" data-error="wrong" data-success="right">អ៊ីមែល</label>
                             </div>
                         </div><!-- /.col-md-6 -->
                     </div><!-- /.row -->
 
                     <div class="input-field">
                         <input id="subject" type="text" name="subject" class="validate">
-                        <label for="subject">Subject</label>
+                        <label for="subject">គោលបំណង</label>
                     </div>
 
                     <div class="row">
                         <div class="col-md-6">
                             <div class="input-field">
                                 <input id="phone" type="tel" name="phone" class="validate">
-                                <label for="phone">Phone Number</label>
+                                <label for="phone">លេខទូរស៍ព្ទ</label>
                             </div>
                         </div><!-- /.col-md-6 -->
 
                         <div class="col-md-6">
                             <div class="input-field">
                                 <input id="website" type="text" name="website" class="validate">
-                                <label for="website">Your Website</label>
+                                <label for="website">គេហទំព័ររបស់លោកអ្នក</label>
                             </div>
                         </div><!-- /.col-md-6 -->
                     </div><!-- /.row -->
 
                     <div class="input-field">
                         <textarea name="message" id="message" class="materialize-textarea"></textarea>
-                        <label for="message">Message</label>
+                        <label for="message">សាររៃរ៉ាប់</label>
                     </div>
 
                     <button type="submit" name="submit" class="waves-effect waves-light btn submit-button pink mt-30">
-                        Send Message
+                        ផ្ញើចេញ
                     </button>
                 </form>
             </div><!-- /.col-md-8 -->
@@ -80,13 +80,8 @@
                 <address>
                     <i class="material-icons brand-color">&#xE55F;</i>
                     <div class="address">
-                        1355 Market Street, Suite 900<br>
-                        San Francisco, CA 94103
-
+                        <p>City Mall, St 217, Phnom Penh, Cambodia</p>
                         <hr>
-
-                        <p>Hoffman Parkway, P.O Box 154 Mountain View.<br>
-                            United States of America.</p>
                     </div>
 
                     <i class="material-icons brand-color">&#xE61C;</i>

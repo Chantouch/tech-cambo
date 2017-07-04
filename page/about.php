@@ -30,7 +30,7 @@
                         <i class="material-icons colored brand-icon">&#xE323;</i>
                     </div>
                     <div class="desc">
-                        <h2>ពូកយើងបង្កើតផ្នែកទន់</h2>
+                        <h2>ពូកយើងបង្កើត Software</h2>
                         <p>
                             + ប្រព័ន្ធគ្រប់គ្រងភោជនីយដ្ឋាន (POS Restaurant)<br>
                             + ប្រព័ន្ធកម្មវិធីលក់ទំនិញ (Retail Shop Points of Sales)<br>
@@ -77,120 +77,12 @@
     </div>
 </section>
 <hr>
-<section class="section-padding banner-6 bg-fixed parallax-bg overlay light-9" data-stellar-background-ratio="0.5">
-    <div class="container">
-
-        <div class="text-center mb-80">
-            <h2 class="section-title text-uppercase">ធ្វើការជាមួយគ្នា</h2>
-            <p class="section-sub">
-                ដើម្បីអភិវឌ្ឍ ដំណោះស្រាយដែលពូកែ និង មានប្រសិទ្ធភាពសម្រាប់ អតិថិជនរបស់យើង ដូច្នេះពួកគេអាចរីករាយជាមួយ ផលិតផលដែលមានគុណភាពខ្ពស់ ប្រកបដោយការច្នៃប្រឌិតខ្ពស់ និង ប្រកបដោយបច្ចេកវិទ្យាខ្ពស់។
-            </p>
-        </div>
-
-        <div class="featured-carousel brand-dot">
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE32A;</i>
-                </div>
-                <div class="desc">
-                    <h2>ពួកយើង បង្កើតថ្មី</h2>
-                    <p>
-                        ពួកយើង បង្កើតអ្វីដែលថ្មីសម្រាប់មនុស្ស ទូទៅ ជាពិសេសសម្រាប់អ្នកដែលមិនចូលចិត្តចំណាយ ពេលវេលាច្រើនក្នុងការរៀបចំឯសារ និងទុកដាក់វា។
-                    </p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE851;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are awesome</h2>
-                    <p>
-                        Nearly every man who develops an idea works it up to the point where it looks impossible, and
-                        then he gets discouraged. That's not the place to become discouraged.
-                    </p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE8AF;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Taltented</h2>
-                    <p>
-                        There is one thing stronger than all the armies in the world, and that is an idea whose time has
-                        come." - Victor Hugo
-                    </p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE91D;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are secured</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque
-                        pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE8CB;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Passionate</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque
-                        pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE8DC;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Developer</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque
-                        pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE02C;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Designer</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque
-                        pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-
-            <div class="featured-item border-box radius-4 hover brand-hover">
-                <div class="icon mb-30">
-                    <i class="material-icons brand-icon">&#xE0BE;</i>
-                </div>
-                <div class="desc">
-                    <h2>We are Expert</h2>
-                    <p>Porttitor communicate pandemic data rather than enabled niche pandemic data rather markets neque
-                        pulvinar vitae.</p>
-                </div>
-            </div><!-- /.featured-item -->
-        </div>
-
-    </div><!-- /.container -->
-</section>
-<hr>
 <section class="section-padding">
     <div class="container">
         <div class="text-center mb-80">
             <h2 class="section-title text-uppercase">ក្រុមដ៏អស្ចារ្យ</h2>
             <p class="section-sub">
-                ពួកយើងបានបង្កើតក្រុម មួយដ៏រឹងមុាំនិងមានភាពបុីប្រសពខ្ពល់ក្នុងការ បំពេញភារកិច្ច។
+
             </p>
         </div>
 
@@ -253,84 +145,7 @@
                                         venenatis suspendisse suspendisse parturient. Leo congue sociosqu maecenas
                                         ligula eu penatibus at suscipit mus scelerisque.</p>
                                 </div>
-
-
-                                <div class="team-skill">
-                                    <div class="row">
-                                        <div class="col-sm-6">
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div><!-- /.progress -->
-                                            </div> <!-- progress-section end -->
-
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                        <div class="col-sm-6">
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                    </div><!-- /.row -->
-
-                                </div> <!--team-skill end -->
+                               <!--team-skill end -->
                             </div> <!-- col-md-8 -->
                         </div> <!-- row -->
                     </div> <!--team-1 end-->
@@ -365,85 +180,7 @@
                                         ligula eu penatibus at suscipit mus scelerisque.</p>
                                 </div>
 
-
-                                <div class="team-skill">
-                                    <div class="row">
-
-                                        <div class="col-sm-6">
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div><!-- /.progress -->
-                                            </div> <!-- progress-section end -->
-
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                        <div class="col-sm-6">
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                    </div><!-- /.row -->
-
-                                </div> <!--team-skill end -->
+                                <!--team-skill end -->
                             </div> <!-- col-md-8 -->
                         </div> <!-- row -->
                     </div> <!--team-2 end -->
@@ -479,85 +216,7 @@
                                         ligula eu penatibus at suscipit mus scelerisque.</p>
                                 </div>
 
-
-                                <div class="team-skill">
-                                    <div class="row">
-
-                                        <div class="col-sm-6">
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div><!-- /.progress -->
-                                            </div> <!-- progress-section end -->
-
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                        <div class="col-sm-6">
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                    </div><!-- /.row -->
-
-                                </div> <!--team-skill end -->
+                               <!--team-skill end -->
                             </div> <!-- col-md-8 -->
                         </div> <!-- row -->
                     </div> <!--team-3 end -->
@@ -592,85 +251,7 @@
                                         ligula eu penatibus at suscipit mus scelerisque.</p>
                                 </div>
 
-
-                                <div class="team-skill">
-                                    <div class="row">
-
-                                        <div class="col-sm-6">
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div><!-- /.progress -->
-                                            </div> <!-- progress-section end -->
-
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                        <div class="col-sm-6">
-                                            <div class="progress-section">
-                                                <span class="progress-title">Web Design</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>90%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-
-                                            <div class="progress-section">
-                                                <span class="progress-title">Mobile Interface</span>
-                                                <div class="progress">
-                                                    <div class="progress-bar brand-bg six-sec-ease-in-out"
-                                                         role="progressbar" aria-valuenow="86" aria-valuemin="0"
-                                                         aria-valuemax="100">
-                                                        <span>86%</span>
-                                                    </div>
-                                                </div>
-                                            </div> <!-- progress-section end -->
-                                        </div><!-- /.col-md-6 -->
-
-                                    </div><!-- /.row -->
-
-                                </div> <!--team-skill end -->
+                                <!--team-skill end -->
                             </div> <!-- col-md-8 -->
                         </div> <!-- row -->
                     </div> <!--team-4 end -->
@@ -683,79 +264,4 @@
     </div><!-- /.container -->
 </section>
 <hr>
-<section class="section-padding">
-    <div class="container">
 
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-
-                <div class="thumb-carousel circle-thumb text-center">
-                    <ul class="slides">
-                        <li data-thumb="assets/img/client-thumb/1.png">
-                            <div class="icon">
-                                <img src="assets/img/quote-dark.png" alt="Customer Thumb">
-                            </div>
-                            <div class="content">
-                                <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi
-                                    varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class
-                                    conubia consequat curae.</p>
-
-                                <div class="testimonial-meta brand-color">
-                                    Jhon Doe,
-                                    <span>User Interface Designer</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li data-thumb="assets/img/client-thumb/2.png">
-                            <div class="icon">
-                                <img src="assets/img/quote-dark.png" alt="Customer Thumb">
-                            </div>
-                            <div class="content">
-                                <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi
-                                    varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class
-                                    conubia consequat curae.</p>
-
-                                <div class="testimonial-meta brand-color">
-                                    Tomas Hody,
-                                    <span>User Interface Designer</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li data-thumb="assets/img/client-thumb/3.png">
-                            <div class="icon">
-                                <img src="assets/img/quote-dark.png" alt="Customer Thumb">
-                            </div>
-                            <div class="content">
-                                <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi
-                                    varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class
-                                    conubia consequat curae.</p>
-
-                                <div class="testimonial-meta brand-color">
-                                    Elita Chow,
-                                    <span>User Interface Designer</span>
-                                </div>
-                            </div>
-                        </li>
-                        <li data-thumb="assets/img/client-thumb/4.png">
-                            <div class="icon">
-                                <img src="assets/img/quote-dark.png" alt="Customer Thumb">
-                            </div>
-                            <div class="content">
-                                <p>Quam adipiscing vestibulum feugiat lacus leo a eget leo convallis sagittis nisi
-                                    varius eros a imperdiet.Dui elementum ut a vestibulum eu fames hendrerit class
-                                    conubia consequat curae.</p>
-
-                                <div class="testimonial-meta brand-color">
-                                    Alex Kumar,
-                                    <span>User Interface Designer</span>
-                                </div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-
-            </div>
-        </div><!-- /.row -->
-
-    </div><!-- /.container -->
-</section>
