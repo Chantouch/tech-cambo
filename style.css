@@ -2,14 +2,18 @@
 
 /* Import css files */
 @import url("assets/fonts/flaticon/flaticon.css");
+@font-face{
+    font-family: TECH_CAMBO_FONT;
+    src: url(assets/fonts/freehand/Battambang-Regular.ttf);
+}
 
 
 
 
 
 body{
-    font-family: 'Raleway', sans-serif !important;
-    font-size: 14px;
+    font-family: TECH_CAMBO_FONT !important;
+    font-size: 15px;
     line-height: 29px;
     font-weight: 500;
     color: #999;

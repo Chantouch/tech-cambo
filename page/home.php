@@ -19,7 +19,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-1/book.png">
+                    <div><img src="assets/img/slide/b1/printer.png" alt="" data-lazyload="assets/img/slide/b1/printer.png">
                     </div>
                 </div>
 
@@ -32,8 +32,8 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt=""
-                              data-lazyload="assets/img/banner-1/glasses.png">
+                    <div><img src="assets/img/slide/b1/scanner.png" alt=""
+                              data-lazyload="assets/img/slide/b1/scanner.png">
                     </div>
                 </div>
 
@@ -46,8 +46,8 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt=""
-                              data-lazyload="assets/img/banner-1/earphones.png">
+                    <div><img src="assets/img/slide/b1/barcode.png" alt=""
+                              data-lazyload="assets/img/slide/b1/barcode.png">
                     </div>
                 </div>
 
@@ -61,7 +61,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-1/cup.png">
+                    <div><img src="assets/img/slide/b1/pos.png" alt="" data-lazyload="assets/img/slide/b1/pos.png">
                     </div>
                 </div>
 
@@ -83,30 +83,11 @@
                      data-splitin="none"
                      data-splitout="none"
                      data-responsive_offset="on"
-                     style="z-index: 5; white-space: nowrap;">មានប្រព័ន្ធគ្រប់គ្រង អាជីវកម្មគ្រប់ប្រភេទ
+                     style="z-index: 5; white-space: nowrap;">មានប្រព័ន្ធគ្រប់គ្រងអាជីវកម្មគ្រប់ប្រភេទ<br/>ប្រព័ន្ធគ្រប់គ្រងការលក់ទំនិញ<br/>ប្រព័ន្ធគ្រប់គ្រងភោជនីដ្ឋានរឺសណ្ឋាគារ
                 </div>
 
                 <!-- LAYER NR. 6 -->
-                <div class="tp-caption tp-resizeme rev-subheading white-text text-center"
-                     data-x="center"
-                     data-y="center"
-                     data-whitespace="nowrap"
-                     data-transform_idle="o:1;"
-
-                     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;"
-                     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-                     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-                     data-start="1000"
-                     data-splitin="none"
-                     data-splitout="none"
-                     data-responsive_offset="on"
-                     style="z-index: 6; white-space: nowrap;">
-
-                    ហាងលក់ទំនិញទូរទៅ  <br> ដេប៉ូលក់ដុំនិងលក់រាយ   <br> ផ្សារទំនើប និងហាងលក់ទំនិញគ្រប់ប្រភេទ។
-
-                </div>
-
+                
                 <!-- LAYER NR. 7 -->
                 <div class="tp-caption tp-resizeme rev-btn"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -127,8 +108,6 @@
                      style="z-index: 7; white-space: nowrap;">
                     <a href="#" class="btn btn-lg  waves-effect waves-light">ពត៌មានបន្ថែម</a>
                 </div>
-
-
                 <!-- LAYER NR. 8 -->
                 <div class="tp-caption tp-resizeme"
                      data-basealign="slide"
@@ -140,12 +119,12 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt=""
-                              data-lazyload="assets/img/banner-1/macbook.png">
+                    <div><img src="assets/img/slide/b1/pc.png" alt=""
+                              data-lazyload="assets/img/slide/b1/pc.png">
                     </div>
                 </div>
             </li>
-            <!-- slide 1 end -->
+            
 
             <!-- slide 2 start -->
             <li data-transition="fade" data-slotamount="default" data-easein="Power4.easeInOut"
@@ -168,7 +147,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/book.png">
+                    <div><img src="assets/img/slide/b2/b5.png" alt="" data-lazyload="assets/img/slide/b2/b5.png">
                     </div>
                 </div>
 
@@ -182,7 +161,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2000"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/flower.png">
+                    <div><img src="assets/img/slide/b2/b4.png" alt="" data-lazyload="assets/img/slide/b2/b4.png">
                     </div>
                 </div>
 
@@ -196,7 +175,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/box.png">
+                    <div><img src="assets/img/slide/b2/b3.png" alt="" data-lazyload="assets/img/slide/b2/b3.png">
                     </div>
                 </div>
 
@@ -210,7 +189,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/tube.png">
+                    <div><img src="assets/img/slide/b2/b2.png" alt="" data-lazyload="assets/img/slide/b2/b2.png">
                     </div>
                 </div>
 
@@ -232,26 +211,10 @@
                      data-splitin="none"
                      data-splitout="none"
                      data-responsive_offset="on"
-                     style="z-index: 5; white-space: nowrap;">ប្រព័ន្ធគ្របគ្រងស្ដុក
+                     style="z-index: 5; white-space: nowrap;">ប្រព័ន្ធដើរដោយទូរស័ព្ទដៃ
                 </div>
 
-                <!-- LAYER NR. 6 -->
-                <div class="tp-caption tp-resizeme rev-subheading white-text text-center"
-                     data-x="center"
-                     data-y="center"
-                     data-whitespace="nowrap"
-                     data-transform_idle="o:1;"
-
-                     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:Power4.easeInOut;"
-                     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                     data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-                     data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-                     data-start="1000"
-                     data-splitin="none"
-                     data-splitout="none"
-                     data-responsive_offset="on"
-                     style="z-index: 6; white-space: nowrap;"> គ្រប់គ្រងស្ដុកគ្រប់ប្រភេទ  <br> គ្រប់គ្រងទំនិញគ្រប់ប្រភេទ   <br> គ្រប់គ្រងទំនិញចេញនិចចូលស្ដុក
-                </div>
+               
 
                 <!-- LAYER NR. 7 -->
                 <div class="tp-caption tp-resizeme rev-btn"
@@ -286,7 +249,7 @@
                      data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
                      data-start="2400"
                      style="z-index: 5;">
-                    <div><img src="../assets/img/banner-1/dummy.png" alt="" data-lazyload="assets/img/banner-2/ipad.png">
+                    <div><img src="assets/img/slide/b2/mobile.png" alt="" data-lazyload="assets/img/slide/b2/mobile.png">
                     </div>
                 </div>
             </li>
@@ -315,20 +278,19 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">មានម៉ាស៊ីនបោះពុម្ភ </span>
-                            </a>
+                                មានម៉ាស៊ីនបោះពុម្ភ
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">មានម៉ាស៊ីនស្កែន</span>
+                               មានម៉ាស៊ីនស្កែន
                             </a>
                         </li>
 
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">មានកុំព្យូទ័រ </span>
+                               មានកុំព្យូទ័រ 
                             </a>
                         </li>
                     </ul>
@@ -347,20 +309,20 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ម៉ាក hp </span>
+                                ម៉ាក HP 
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">រូបរាងស្រស់ស្អាត</span>
+                                រូបរាងស្រស់ស្អាត
                             </a>
                         </li>
 
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ដឹកជញ្ជូនដល់ទីកន្លែង </span>
+                                ដឹកជញ្ជូនដល់ទីកន្លែង
                             </a>
                         </li>
                     </ul>
@@ -370,7 +332,7 @@
 
             <div class="featured-item border-box radius-4 hover old-green-hover" style="height: 500px">
                 <div class=" mb-30">
-                    <img src="assets/img/pos/scanner.jpg"  class="img-responsive height-200"/>
+                    <img src="assets/img/pos/scanner.png"  class="img-responsive height-200"/>
                 </div>
                 <div class="desc">
                     <h2 class="light-159d80-text text-center"> ម៉ាស៊ីនស្កែន</h2>
@@ -379,20 +341,20 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">គុណភាពល្អ </span>
+                                គុណភាពល្អ
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ម៉ាក hp</span>
+                               ម៉ាក HP
                             </a>
                         </li>
 
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ដឹកជញ្ជូនដល់ទីកន្លែង </span>
+                                ដឹកជញ្ជូនដល់ទីកន្លែង 
                             </a>
                         </li>
                     </ul>
@@ -412,20 +374,20 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">មានរាងស្អាត នឹង ងាយស្រួលក្នុងការប្រើប្រាស់ </span>
+                                មានរាងស្អាត នឹង ងាយស្រួលក្នុងការប្រើប្រាស់
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">មាន </span> DPI <span class="font-size-18">សំរាប់ប្តូរល្បឿននៃការប្រើប្រាស់ </span>  Mouse
+                               មាន DPI សំរាប់ប្តូរល្បឿននៃការប្រើប្រាស់ Mouse
                             </a>
                         </li>
 
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">មានបីពណ័សំរាប់ប្តូរទៅតាម </span> DPI <span class="font-size-18"> ដែលប្រើ </span>
+                                មានបីពណ័សំរាប់ប្តូរទៅតាម DPI ដែលប្រើ
                             </a>
                         </li>
 
@@ -445,19 +407,19 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18"> ម៉ាក dell </span>
+                                ម៉ាក dell
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ថតរូបច្បាស់ល្អ</span>
+                                ថតរូបច្បាស់ល្អ
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ម៉ូនីទ័រ ២៣ អ៊ីញ</span>
+                                ម៉ូនីទ័រ ២៣ អ៊ីញ
                             </a>
                         </li>
 
@@ -489,13 +451,13 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18"> គ្រប់គ្រងទំនិញ</span>
+                                 គ្រប់គ្រងទំនិញ
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ការគ្រប់គ្រង</span>
+                                ការគ្រប់គ្រង
                             </a>
                         </li>
 
@@ -514,73 +476,64 @@
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ម៉ាក hp </span>
+                                ម៉ាក HP
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">រូបរាងស្រស់ស្អាត</span>
+                               រូបរាងស្រស់ស្អាត
                             </a>
                         </li>
 
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ដឹកជញ្ជូនដល់ទីកន្លែង </span>
+                               ដឹកជញ្ជូនដល់ទីកន្លែង
                             </a>
                         </li>
                     </ul>
 
                 </div>
             </div><!-- /.featured-item -->
-
             <div class="featured-item border-box radius-4 hover old-green-hover" style="height: 500px">
                 <div class=" mb-30">
                     <img src="assets/img/pos/school.png"  class="img-responsive height-200"/>
                 </div>
                 <div class="desc">
                     <h2 class="light-159d80-text text-center"> ប្រព័ន្ធគ្របគ្រងសាលា</h2>
-
                     <ul class="cambo-pad-l-20">
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ការគ្រប់គ្រងសិស្ស </span>
+                                ការគ្រប់គ្រងសិស្ស 
                             </a>
                         </li>
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ការគ្រប់គ្រងគ្រូ</span>
+                               ការគ្រប់គ្រងគ្រូ
                             </a>
                         </li>
-
                         <li>
                             <a href="#" class="black-text">
                                 <i class="fa fa-check-square-o light-159d80-text" aria-hidden="true"></i> &nbsp;
-                                <span class="font-size-18">ការគ្រប់គ្រងអវត្ដមានសិស្សនិងគ្រូ </span>
+                                ការគ្រប់គ្រងអវត្ដមានសិស្សនិងគ្រូ
                             </a>
                         </li>
                     </ul>
-
                 </div>
             </div><!-- /.featured-item -->
-
-
         </div>
-
     </div><!-- /.container -->
 </section>
 
 <section class="section-padding-buttom">
     <div class="container">
-
         <div class="text-center mb-40">
             <h2 class="section-title text-uppercase light-159d80-text">អតិថិជនរបស់ពួកយើង</h2>
             <p class="section-sub">  <span class="light-159d80-text">TECH CAMBO </span> <span class="font-size-18 black-text">សូមអរគុណអតិថិជនទាំងអស់ដែលមានការជឿជាក់ ទុកចិត្ដ ចំពោះផលិតផលនិងសេវាកម្មយើងខ្ញុំ ហើយក៏សូមអរគុណចំពោះការជ្រើសរើសយីងខ្ញុំ។ យើងទន្ទឹងរង់ចាំចែករំលែកភាពជោគជ័យរបស់អ្នក។</span> </p>
         </div>
-
         <div class="clients-grid gutter">
             <div class="row">
                 <div class="col-md-2 col-sm-2">
@@ -599,7 +552,6 @@
                 </div><!-- /.col-md-3 -->
             </div><!-- /.row -->
         </div><!-- /.clients-grid -->
-
     </div><!-- /.container -->
 </section>
 
