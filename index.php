@@ -16,7 +16,6 @@
     <!--  apple-touch-icon -->
 
 
-
     <!-- Material Icons CSS -->
     <link href="assets/fonts/iconfont/material-icons.css" rel="stylesheet">
     <!-- FontAwesome CSS -->
@@ -44,7 +43,14 @@
     <link rel="stylesheet" type="text/css" href="assets/revolution/css/layers.css">
     <link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
 
-
+    <style>
+        @media screen and (max-width: 768px) {
+            .menuzord-responsive .logo-brand img {
+                height: 34px;
+                float: left;
+            }
+        }
+    </style>
 </head>
 <body id="top" class="has-header-search">
 <?php include 'page/header.php'; ?>

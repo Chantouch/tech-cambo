@@ -29,25 +29,6 @@
 <header id="header" class="tt-nav nav-border-bottom">
     <div class="header-sticky light-header ">
         <div class="container">
-            <div class="search-wrapper">
-                <div class="search-trigger pull-right">
-                    <div class='search-btn'></div>
-                    <i class="material-icons">&#xE8B6;</i>
-                </div>
-                <!-- Modal Search Form -->
-                <i class="search-close material-icons">&#xE5CD;</i>
-                <div class="search-form-wrapper">
-                    <form action="#" class="white-form">
-                        <div class="input-field">
-                            <input type="text" name="search" id="search">
-                            <label for="search" class="">Search Here...</label>
-                        </div>
-                        <button class="btn pink search-button waves-effect waves-light" type="submit"><i
-                                    class="material-icons">&#xE8B6;</i>
-                        </button>
-                    </form>
-                </div>
-            </div><!-- /.search-wrapper -->
             <div id="materialize-menu" class="menuzord">
                 <a href="index.php" class="logo-brand">
                     <img class="retina" src="assets/img/logo-colored.png" alt=""/>
